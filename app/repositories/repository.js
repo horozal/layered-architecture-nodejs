@@ -1,3 +1,5 @@
-module.exports = () => {
+class Repository {
 
-};
+}
+
+module.exports = Repository;
