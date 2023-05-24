@@ -1,3 +1,5 @@
-module.exports = {
+class Service {
 
-};
+}
+
+module.exports = Service;
