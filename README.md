@@ -1,11 +1,11 @@
 # layered-architecture-nodejs
-Template for a layered-architecture project in Node.js
+Template for a Node.js project using a layered architecture.
 
-Uses the express web framework for Node.js
+The template uses the express web framework for Node.js, to install run:
 
 ```npm install express```
 
-To start the script
+To start the script, run:
 
 ```npm start```
 
